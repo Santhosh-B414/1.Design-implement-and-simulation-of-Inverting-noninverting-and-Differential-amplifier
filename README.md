@@ -1,4 +1,4 @@
-<img width="1287" height="1600" alt="image" src="https://github.com/user-attachments/assets/2b4c1aa9-e2fb-4fef-be75-18574d57aa00" /># 1.Design-implement-and-simulation-of-Inverting-noninverting-and-Differential-amplifier
+# 1.Design-implement-and-simulation-of-Inverting-noninverting-and-Differential-amplifier
 
 **AIM:**
 To design , implement and simulate  an inverting, non- inverting and differential amplifiers
