@@ -1,4 +1,4 @@
-# 1.Design-implement-and-simulation-of-Inverting-noninverting-and-Differential-amplifier
+<img width="1287" height="1600" alt="image" src="https://github.com/user-attachments/assets/2b4c1aa9-e2fb-4fef-be75-18574d57aa00" /># 1.Design-implement-and-simulation-of-Inverting-noninverting-and-Differential-amplifier
 
 **AIM:**
 To design , implement and simulate  an inverting, non- inverting and differential amplifiers
@@ -73,36 +73,51 @@ Choose R1 = 1kΩ, Rf=10kΩ
 7.	Plot the graph of the input wave versus output wave for any one practical case.
  
 **PIN DIAGRAM:**
+<img width="1600" height="708" alt="image" src="https://github.com/user-attachments/assets/ecc7e48f-2977-4996-8668-2cbb0a6c3e7f" />
+
 
 **INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  <img width="1600" height="791" alt="image" src="https://github.com/user-attachments/assets/120887df-c793-405c-b501-031afce651ea" />
+
 
 
   **MODEL GRAPH:**
+  <img width="1444" height="866" alt="image" src="https://github.com/user-attachments/assets/633d42eb-430c-4d24-991b-8516d81089b3" />
+
 
 
   **TABULATION:**
+  <img width="1365" height="946" alt="image" src="https://github.com/user-attachments/assets/acbb82eb-ff39-4308-84f1-48093139cc35" />
+
  
 
-**MODEL CALCULATION:**
+**GRAPH:**
+<img width="1287" height="1600" alt="image" src="https://github.com/user-attachments/assets/27f2a9f2-c953-4304-a0a1-7f58345e3c97" />
+
+
+
 
 **NON INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+  <img width="1600" height="1586" alt="image" src="https://github.com/user-attachments/assets/8a9a9ec9-4a2c-4ea8-8818-b54fede3d101" />
+
 
 
   **MODEL GRAPH:**
+  <img width="1304" height="1600" alt="image" src="https://github.com/user-attachments/assets/c16ebcd1-d074-4672-9f4d-8af8677dd09e" />
 
-
-  **TABULATION:**
+  
 
   **DIFFERENTIAL AMPLIFIER:**
-  **CIRCUIT DIAGRAM**
-
-
   **MODEL GRAPH:**
+  <img width="863" height="1292" alt="image" src="https://github.com/user-attachments/assets/f39e1227-091f-4e8d-96bc-6f37b6075b01" />
 
 
-  **TABULATION:**
+
+  **GRAPH:**
+<img width="1269" height="1600" alt="image" src="https://github.com/user-attachments/assets/bd920ccd-27a0-4a95-b496-1810be3d4aef" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -115,6 +130,8 @@ Choose R1 = 1kΩ, Rf=10kΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+  <img width="1600" height="817" alt="image" src="https://github.com/user-attachments/assets/62d15854-b034-4d25-b14b-7bbf599c132a" />
+
   
 
 **RESULT:**
