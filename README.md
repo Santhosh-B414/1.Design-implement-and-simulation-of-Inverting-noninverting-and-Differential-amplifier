@@ -131,6 +131,11 @@ Choose R1 = 1kΩ, Rf=10kΩ
   **LT SPICE**
   **CIRCUIT and Waveform**
   <img width="1600" height="817" alt="image" src="https://github.com/user-attachments/assets/62d15854-b034-4d25-b14b-7bbf599c132a" />
+  <img width="1600" height="827" alt="image" src="https://github.com/user-attachments/assets/ea21ff8e-e2c9-4976-a114-982e6dcd918e" />
+  <img width="1600" height="808" alt="image" src="https://github.com/user-attachments/assets/65511571-f992-4c81-b55c-7ecd97037994" />
+
+  
+
 
   
 
